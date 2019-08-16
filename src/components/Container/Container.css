@@ -1,0 +1,22 @@
+.container{
+    font-family: Metropolis,sans-serif;
+    text-align:center;
+    color: #0d2149;
+    background-color: #f1f4f8;
+    padding:7vh;
+    
+}
+.line{
+    font-size: 20px;
+    color: #0d2149;
+    letter-spacing: .07rem;
+}
+.companies img{
+    opacity: 1;
+    filter: grayscale(100);
+}
+
+.companies{
+    display: flex;
+    justify-content: space-around;
+}
