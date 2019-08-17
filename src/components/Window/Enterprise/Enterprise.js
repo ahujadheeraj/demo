@@ -4,7 +4,7 @@ import growthpic from '../../../assets/img/enterprise.jpg'
 
 const growth = (props) => (
     <div>
-        <h1 style = {{textAlign:"center",color: "rgb(80, 75, 75)"}}>
+        <h1 style = {{margin:"40px 0",textAlign:"center",color: "rgb(80, 75, 75)"}}>
         Grow more target accounts for the sales team</h1>
         <div className = "Growth">
         <div className = "card">

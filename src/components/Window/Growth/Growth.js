@@ -4,7 +4,7 @@ import growthpic from '../../../assets/img/growth.jpg'
 
 const growth = (props) => (
     <div>
-        <h1 style = {{textAlign:"center",color: "rgb(80, 75, 75)"}}>Drive demand and conversion with automation</h1>
+        <h1 style = {{textAlign:"center",color: "rgb(80, 75, 75)",margin:"40px 0"}}>Drive demand and conversion with automation</h1>
         <div className = "Growth">
         <div className = "card">
             <img src = {growthpic} alt = "growth"/>

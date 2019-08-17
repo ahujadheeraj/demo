@@ -4,7 +4,7 @@ import growthpic from '../../../assets/img/sales.jpg'
 
 const growth = (props) => (
     <div>
-        <h1 style = {{textAlign:"center",color: "rgb(80, 75, 75)"}}>
+        <h1 style = {{margin:"40px 0",textAlign:"center",color: "rgb(80, 75, 75)"}}>
         Context to close more deals, more quickly
         </h1>
         <div className = "Growth">
